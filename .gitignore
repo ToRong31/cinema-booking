@@ -1,0 +1,32 @@
+# Dockerfiles
+**/Dockerfile
+**/docker-compose*.yml
+
+# Maven
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/.mvn/wrapper/maven-wrapper.jar
+
+# Node
+**/node_modules/
+**/dist/
+**/build/
+**/.npm
+**/.eslintcache
+
+# IDE
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.DS_Store
+
+# Logs
+**/logs/
+**/*.log
+
+# Environment
+**/.env
+**/.env.local
